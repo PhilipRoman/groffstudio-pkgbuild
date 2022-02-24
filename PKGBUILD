@@ -1,8 +1,8 @@
 pkgname=groffstudio-git
 
-pkgver=r2.9746731
+pkgver=0
 
-pkgrel=1
+pkgrel=2
 
 pkgdesc="An IDE for groff"
 
