@@ -14,7 +14,7 @@ license=('CDDL')
 
 depends=('gtk2' 'groff')
 
-makedepends=('lazarus')
+makedepends=('lazarus' 'git')
 
 source=("git+https://github.com/dertuxmalwieder/groffstudio")
 
